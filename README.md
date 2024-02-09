@@ -23,6 +23,7 @@ I am a fullstack developer with 3+ years of experience, specialising in frontend
 
   * Kanban like clone where user can add boards, update boards with different task status and add tasks.
   * User can also edit and delete all of them, tasks, task statuses(aka columns) and boards.
+  * User can also drag and drop the tasks between the different columns in the same board
   * <h5>Tech stack:</h5> React, typescript, vite, tailwind CSS, redux
   * [Github repo](https://github.com/phoenix-flyhigh/kanban-clone)
 
