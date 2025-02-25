@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer with expertise in frontend technologies
 ------------------------------------------------------------
 
-I am a fullstack developer with 3+ years of experience, specialising in frontend tech like React. Believer in clean code and good will.
+I am a fullstack developer with 4+ years of experience, specialising in frontend tech like React. Believer in clean code and goodwill.
 
 * 🌍  I'm based in Chennai, India
 * ✉️  You can contact me at [j.akshaya07@gmail.com](mailto:j.akshaya07@gmail.com)
-* 🧠  I'm learning GraphQL
 
 ### Skills
 
@@ -39,7 +38,7 @@ I am a fullstack developer with 3+ years of experience, specialising in frontend
       <ul>
         <li>Express</li>
         <li>MongoDB</li>
-        <li>Docker</li>
+        <li>Websocket</li>
         <li>Webpack</li>
         <li>Babel</li>
         <li>Vite</li>
